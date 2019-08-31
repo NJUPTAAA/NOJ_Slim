@@ -1,2 +1,2 @@
-# NOJ_Contest
-NOJ Contest Version is Specified for Contest Holding.
+# NOJ_Slim
+NOJ Slim Version is Specified for Contest Holding.
